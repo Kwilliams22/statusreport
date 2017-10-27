@@ -1,7 +1,8 @@
 # Status Report 1
 
 # Game Selected 
-* None 
+*  [ snail story ](https://www.platformgames.com/game/Snail%27s+Story)
+
 
 # Team Assignments 
 ## Devin
