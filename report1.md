@@ -4,13 +4,8 @@
 *  [ snail story ](https://www.platformgames.com/game/Snail%27s+Story)
 
 
-# Team Assignments 
-## Devin
-* 
-
-## Cameron
-* 
-
+# Assignments 
+ 
 ## Kesean
 * 
 
